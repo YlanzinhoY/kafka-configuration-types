@@ -1,4 +1,4 @@
-package types
+package kafkatypes
 
 // General Configuration (Client, Network, Metadata)
 const (
