@@ -8,6 +8,13 @@ The goal is simple:
 
 ---
 
+
+install 
+
+```bash
+go get github.com/ylanzinhoy/kafka-configuration-types/kafkatypes
+```
+
 ## Why?
 
 By default, configuring Kafka with `confluent-kafka-go` looks like this:
